@@ -4,3 +4,11 @@ how to ctreate a restful api.
 Create a new SpringBoot project using your preferred IDE or the Spring Initializr website (https://start.spring.io/).
 
 Add the following dependencies to your project's 
+
+todo class
+
+todocontroller
+
+todorepository
+
+pom.xml file
